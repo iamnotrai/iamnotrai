@@ -38,7 +38,10 @@ I'm a Front-end Developer
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
