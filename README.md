@@ -35,7 +35,12 @@ Not a Developer
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
-
+# 📊 GitHub Stats:
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=60" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&rand=12345" alt="Top Languages" />
+</p>
 
 
 </p>
