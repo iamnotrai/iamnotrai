@@ -36,14 +36,10 @@ Not a Developer
   </a>
 </p>
 # 📊 GitHub Stats:
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=60" alt="Top Languages" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&rand=12345" alt="Top Languages" />
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotrai&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&rand=12345" alt="Top Languages" />
 
 
 </p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
