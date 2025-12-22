@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Not a Developer
+Not a Developer
 
 
 ## 🌐 Socials:
